@@ -1,0 +1,33 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/ios/build/device/myDemoApp.app/www/cordova-js-src/platform.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/www/lib/ionic/js/ionic.min.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/ios/build/device/myDemoApp.app/www/cordova.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/ios/build/device/myDemoApp.app/www/cordova_plugins.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/ios/build/device/myDemoApp.app/www/js/app.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/ios/build/device/myDemoApp.app/www/js/controllers.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/ios/build/device/myDemoApp.app/www/js/services.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/ios/build/device/myDemoApp.app/www/lib/ionic/js/angular/angular-animate.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/ios/build/device/myDemoApp.app/www/lib/ionic/js/angular/angular-animate.min.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/ios/build/device/myDemoApp.app/www/lib/ionic/js/angular/angular-resource.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/ios/build/device/myDemoApp.app/www/lib/ionic/js/angular/angular-resource.min.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/ios/build/device/myDemoApp.app/www/lib/ionic/js/angular-ui/angular-ui-router.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/android/cordova/lib/builders/builders.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/android/build/intermediates/assets/debug/www/plugins/cordova-plugin-file/www/fileSystemPaths.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/ios/platform_www/plugins/cordova-plugin-media/www/MediaError.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/android/build/intermediates/assets/debug/www/plugins/cordova-plugin-file/www/fileSystems-roots.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/android/build/intermediates/assets/debug/www/plugins/cordova-plugin-file/www/fileSystems.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/android/build/intermediates/assets/debug/www/plugins/cordova-plugin-file/www/FileUploadOptions.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/ios/platform_www/plugins/cordova-plugin-splashscreen/www/splashscreen.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/android/build/intermediates/assets/debug/www/plugins/cordova-plugin-file/www/FileUploadResult.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/android/build/intermediates/assets/debug/www/plugins/cordova-plugin-file/www/FileWriter.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/android/build/intermediates/assets/debug/www/plugins/cordova-plugin-file/www/Flags.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/android/build/intermediates/assets/debug/www/plugins/cordova-plugin-file/www/LocalFileSystem.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/android/build/intermediates/assets/debug/www/plugins/cordova-plugin-file/www/Metadata.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/android/build/intermediates/assets/debug/www/plugins/cordova-plugin-file/www/ProgressEvent.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/android/build/intermediates/assets/debug/www/plugins/cordova-plugin-file/www/requestFileSystem.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/android/build/intermediates/assets/debug/www/plugins/cordova-plugin-file/www/FileReader.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/platforms/android/build/intermediates/assets/debug/www/plugins/cordova-plugin-file/www/FileSystem.js",
+        "/Users/nagarro/Documents/Ionic_apps/myDemoApp/www/js/app.js"
+    ]
+}

@@ -1,0 +1,20 @@
+/* Empty. Add your own CSS if you like */
+.title.header-item{
+/*    text-align: center !important;*/
+}
+
+.playlist_img{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+}
+.playlist_img img{
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+}
+.playlist_img_icon{
+    width: 18px;
+    height: 18px;
+    margin-right: 5px;
+}
